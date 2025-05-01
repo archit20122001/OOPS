@@ -28,12 +28,15 @@ class Apartment
         }
 };
 
-class Payment:Apartment
+class Payment
 {
     int amount;
-    int code=0;
 
     public:
+        Payment(int am)
+        {
+            this->amount=am;
+        }
         int a;
         string gencode()
         {
