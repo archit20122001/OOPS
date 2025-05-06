@@ -1,5 +1,5 @@
-Number(Number &obj)
-    // {
-    //     cout<<"Copy constructor called"<<endl;
-    //     a=obj.a;
-    // }
+public:
+    //     void say()
+    //     {
+    //         cout<<"Hello Everyone"<<endl;
+    //     }
