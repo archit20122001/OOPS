@@ -1,5 +1,4 @@
-public:
-    //     void say()
-    //     {
-    //         cout<<"Hello Everyone"<<endl;
-    //     }
+void say()
+        {
+            cout<<"Hello Everyone"<<endl;
+        }
